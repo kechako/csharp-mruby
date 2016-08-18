@@ -1,0 +1,8 @@
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\bin\Debug\MRubySample.exe.config
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\obj\Debug\MRubySample.csprojResolveAssemblyReference.cache
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\bin\Debug\MRubySample.exe
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\bin\Debug\MRubySample.pdb
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\bin\Debug\MRuby.Interop.dll
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\bin\Debug\MRuby.Interop.pdb
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\obj\Debug\MRubySample.exe
+C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\MRubySample\obj\Debug\MRubySample.pdb

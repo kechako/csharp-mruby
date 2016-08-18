@@ -1,0 +1,14 @@
+﻿  MRuby.cpp
+c:\users\ketchup\dev\csharp\csharp-mruby\vendor\mruby\include\mruby/gc.h(41): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ketchup\dev\csharp\csharp-mruby\vendor\mruby\include\mruby/gc.h(41): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ketchup\dev\csharp\csharp-mruby\src\mruby.interop\mruby.interop\MRubyUtils.h(20): warning C4091: 'static ': 変数が何も宣言されていないときは、'MRubyCSharp::Interop::MRubyUtils' の左辺を無視します。
+  MRubyUtils.cpp
+c:\users\ketchup\dev\csharp\csharp-mruby\vendor\mruby\include\mruby/gc.h(41): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ketchup\dev\csharp\csharp-mruby\vendor\mruby\include\mruby/gc.h(41): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ketchup\dev\csharp\csharp-mruby\src\mruby.interop\mruby.interop\MRubyUtils.h(20): warning C4091: 'static ': 変数が何も宣言されていないときは、'MRubyCSharp::Interop::MRubyUtils' の左辺を無視します。
+MRubyUtils.cpp(9): warning C4965: 整数 0 の暗黙的なボックスです。nullptr または明示的なキャストを使用してください
+MRubyUtils.cpp(29): warning C4965: 整数 0 の暗黙的なボックスです。nullptr または明示的なキャストを使用してください
+  コードを生成中...
+  AssemblyInfo.obj : マネージ コードが存在する場合は、/DEBUG:FASTLINK はサポートされません。/DEBUG:FULL でリンクを再開します
+  MRuby.Interop.vcxproj -> C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\Debug\MRuby.Interop.dll
+  MRuby.Interop.vcxproj -> C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\Debug\MRuby.Interop.pdb (Partial PDB)
