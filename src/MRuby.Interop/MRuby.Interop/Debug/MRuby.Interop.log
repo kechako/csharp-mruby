@@ -1,0 +1,9 @@
+﻿  MRuby.cpp
+c:\users\ketchup\dev\csharp\csharp-mruby\vendor\mruby\include\mruby/gc.h(41): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\ketchup\dev\csharp\csharp-mruby\vendor\mruby\include\mruby/gc.h(41): note: このメンバーは、既定のコンストラクターまたはコピー/移動代入演算子により無視されます
+c:\users\ketchup\dev\csharp\csharp-mruby\src\mruby.interop\mruby.interop\Utils.h(21): warning C4091: 'static ': 変数が何も宣言されていないときは、'MRubyCSharp::Interop::Utils' の左辺を無視します。
+  AssemblyInfo.obj : マネージ コードが存在する場合は、/DEBUG:FASTLINK はサポートされません。/DEBUG:FULL でリンクを再開します
+MRubyClass.obj : warning LNK4248: 未解決の typeref トークン (01000016) ('RClass') です。イメージを実行できません。
+MRuby.obj : warning LNK4248: 未解決の typeref トークン (0100001B) ('RClass') です。イメージを実行できません。
+  MRuby.Interop.vcxproj -> C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\Debug\MRuby.Interop.dll
+  MRuby.Interop.vcxproj -> C:\Users\ketchup\dev\csharp\csharp-mruby\src\MRuby.Interop\Debug\MRuby.Interop.pdb (Partial PDB)
