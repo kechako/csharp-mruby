@@ -1,0 +1,8 @@
+﻿  AssemblyInfo.obj : マネージ コードが存在する場合は、/DEBUG:FASTLINK はサポートされません。/DEBUG:FULL でリンクを再開します
+MRuby.Interop.obj : error LNK2028: 未解決のトークン (0A000037) "extern "C" void __cdecl mrb_close(struct mrb_state *)" (?mrb_close@@$$J0YAXPAUmrb_state@@@Z) が関数 "private: __clrcall MRubyInterop::MRuby::~MRuby(void)" (??1MRuby@MRubyInterop@@$$FA$AAM@XZ) で参照されました。
+MRuby.Interop.obj : error LNK2028: 未解決のトークン (0A000038) "extern "C" struct mrb_state * __cdecl mrb_open(void)" (?mrb_open@@$$J0YAPAUmrb_state@@XZ) が関数 "public: __clrcall MRubyInterop::MRuby::MRuby(void)" (??0MRuby@MRubyInterop@@$$FQ$AAM@XZ) で参照されました。
+MRuby.Interop.obj : error LNK2019: 未解決の外部シンボル "extern "C" struct mrb_state * __cdecl mrb_open(void)" (?mrb_open@@$$J0YAPAUmrb_state@@XZ) が関数 "public: __clrcall MRubyInterop::MRuby::MRuby(void)" (??0MRuby@MRubyInterop@@$$FQ$AAM@XZ) で参照されました。
+MRuby.Interop.obj : error LNK2019: 未解決の外部シンボル "extern "C" void __cdecl mrb_close(struct mrb_state *)" (?mrb_close@@$$J0YAXPAUmrb_state@@@Z) が関数 "private: __clrcall MRubyInterop::MRuby::~MRuby(void)" (??1MRuby@MRubyInterop@@$$FA$AAM@XZ) で参照されました。
+C:\Users\23001\projects\src\MRuby\vendor\mruby\build\host\lib\libmruby.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' X86' と競合しています
+C:\Users\23001\projects\src\MRuby\vendor\mruby\build\host\lib\libmruby_core.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' X86' と競合しています
+C:\Users\23001\projects\src\MRuby\Debug\MRuby.Interop.dll : fatal error LNK1120: 4 件の未解決の外部参照

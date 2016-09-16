@@ -1,0 +1,7 @@
+﻿  MRuby.Interop.cpp
+c:\users\23001\projects\src\mruby\vendor\mruby\include\mruby/gc.h(41): warning C4200: 非標準の拡張機能が使用されています: 構造体または共用体中にサイズが 0 の配列があります。
+  c:\users\23001\projects\src\mruby\vendor\mruby\include\mruby/gc.h(41): note: UDT にサイズが 0 の配列が含まれているときに、copy-ctor または copy-assignment オペレーターを生成することはできません。
+  AssemblyInfo.obj : マネージ コードが存在する場合は、/DEBUG:FASTLINK はサポートされません。/DEBUG:FULL でリンクを再開します
+MRuby.Interop.obj : warning LNK4248: 未解決の typeref トークン (01000017) ('RClass') です。イメージを実行できません。
+  MRuby.Interop.vcxproj -> C:\Users\23001\projects\src\MRuby\x64\Debug\MRuby.Interop.dll
+  MRuby.Interop.vcxproj -> C:\Users\23001\projects\src\MRuby\x64\Debug\MRuby.Interop.pdb (Partial PDB)

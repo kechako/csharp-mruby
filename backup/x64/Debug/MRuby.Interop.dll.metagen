@@ -1,0 +1,30 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly MRuby.Interop, Version=1.0.*, Culture=ロケールに依存しない言語 (ロケールに依存しない国): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class MRuby.Interop.MRubyObject: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Send(String, Object[]): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class MRuby.Interop.MRubyClass: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Methods:
+    New(Object[]): PrivateScope, Public, HideBySig
+Class MRuby.Interop.MRubyInterpreter: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    LoadStringW(String): PrivateScope, Public, HideBySig
+    GetClass(String): PrivateScope, Public, HideBySig
+    P(Object): PrivateScope, Public, HideBySig
+    FullGC(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

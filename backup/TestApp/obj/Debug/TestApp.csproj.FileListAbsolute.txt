@@ -1,0 +1,8 @@
+C:\Users\23001\projects\src\MRuby\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\23001\projects\src\MRuby\TestApp\bin\Debug\TestApp.exe
+C:\Users\23001\projects\src\MRuby\TestApp\bin\Debug\TestApp.pdb
+C:\Users\23001\projects\src\MRuby\TestApp\bin\Debug\MRuby.Interop.dll
+C:\Users\23001\projects\src\MRuby\TestApp\bin\Debug\MRuby.Interop.pdb
+C:\Users\23001\projects\src\MRuby\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\23001\projects\src\MRuby\TestApp\obj\Debug\TestApp.exe
+C:\Users\23001\projects\src\MRuby\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,5 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  MRuby.Interop.cpp
+c:\users\23001\projects\src\mruby\mruby.interop\MRuby.Interop.h(3): fatal error C1083: include ファイルを開けません。'mruby.h':No such file or directory
+  コードを生成中...
